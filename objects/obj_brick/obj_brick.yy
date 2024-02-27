@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_brick",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_brick",
+    "path": "sprites/spr_brick/spr_brick.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
