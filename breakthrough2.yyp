@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":1,},
     {"id":{"name":"obj_powers","path":"objects/obj_powers/obj_powers.yy",},"order":4,},
+    {"id":{"name":"Clown_chosic_com_","path":"sounds/Clown_chosic_com_/Clown_chosic_com_.yy",},"order":4,},
     {"id":{"name":"obj_brick","path":"objects/obj_brick/obj_brick.yy",},"order":2,},
     {"id":{"name":"spr_powers","path":"sprites/spr_powers/spr_powers.yy",},"order":3,},
     {"id":{"name":"snd_PowerUp","path":"sounds/snd_PowerUp/snd_PowerUp.yy",},"order":1,},
